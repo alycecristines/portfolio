@@ -57,7 +57,7 @@ function AboutSection() {
 	};
 
 	return (
-		<section className="text-white mt-20">
+		<section className="text-white mt-20" id="about">
 			<div className="gap-8 items-center py-8 px-4 xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-16">
 				<Image
 					src="/me.jpg"
