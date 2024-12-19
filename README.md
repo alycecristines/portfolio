@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Personal Portfolio  
 
-## Getting Started
+Welcome to my personal portfolio repository! This project showcases some of my work, skills, and experience as a software developer through a responsive web application.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [About the Project](#about-the-project)  
+- [Technologies Used](#technologies-used)  
+- [Installation and Setup](#installation-and-setup)  
+- [Features](#features)
+- [Contact](#contact)  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## About the Project  
 
-## Learn More
+This portfolio was built to create a professional online presence where I can display my projects, share my experience, and highlight my skills. The site is fully responsive, providing a great user experience on various devices.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Next.js**: React-based framework for building web applications.  
+- **TypeScript**: JavaScript superset with static typing.  
+- **Tailwind CSS**: Utility-first CSS framework for fast and responsive design.  
+- **Vercel**: Platform for hosting front-end applications.  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Installation and Setup  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**:  
+
+   ```bash
+   git clone https://github.com/alycecristines/portfolio.git
+   ```
+
+2. **Navigate to the project directory**:  
+
+   ```bash
+   cd portfolio
+   ```
+
+3. **Install dependencies**:  
+
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+4. **Start the development server**:  
+
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+5. **Open the application in your browser**:  
+
+   Visit [http://localhost:3000](http://localhost:3000).
+
+---
+
+## Features  
+
+- **Home Page**: Personal introduction and summary of skills.  
+- **Projects Section**: Showcases completed projects with descriptions and repository links.  
+- **Experience Timeline**: Professional and educational background.  
+- **Contact Form**: Enables direct communication.  
+
+---
+
+## Contact  
+
+Feel free to reach out if you'd like to connect or discuss potential opportunities:  
+
+- **Website**: [alycecristines.dev](https://www.alycecristines.dev/)  
+- **LinkedIn**: [linkedin.com/in/alycecristines](https://www.linkedin.com/in/alycecristines)  
+- **GitHub**: [github.com/alycecristines](https://github.com/alycecristines)  
