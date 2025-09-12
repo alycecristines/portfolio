@@ -26,6 +26,7 @@ function ProfileSection() {
 						wrapper="span"
 						speed={50}
 						repeat={Infinity}
+						style={{ fontSize: "0.75em" }}
 					/>
 				</h1>
 				<p className="text-[#ADB7BE] mb-6 textl-lg lg:text-xl">
