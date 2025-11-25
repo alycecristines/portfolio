@@ -30,8 +30,13 @@ const TAB_DATA: Tab[] = [
 		id: "education",
 		content: (
 			<ul className="list-disc pl-2">
-				<li>Bachelor&apos;s Degree in Systems Analysis and Development, UEG - Brazil</li>
-				<li>Bachelor&apos;s Degree in Computer Networks Technology, FANAP - Brazil</li>
+				<li>
+					Bachelor&apos;s Degree in Systems Analysis and Development, UEG -
+					Brazil
+				</li>
+				<li>
+					Bachelor&apos;s Degree in Computer Networks Technology, FANAP - Brazil
+				</li>
 			</ul>
 		),
 	},
@@ -40,7 +45,7 @@ const TAB_DATA: Tab[] = [
 		id: "certifications",
 		content: (
 			<ul className="list-disc pl-2">
-				<li>Work in progress for this one (hang in there for a moment)</li>
+				<li>MBA in Software Architecture (WIP)</li>
 			</ul>
 		),
 	},
@@ -78,8 +83,8 @@ function AboutSection() {
 						environments that offer opportunities for continuous growth and
 						learning. I hold a degree in Computer Networks from UEG and another
 						in Systems Analysis and Development from FANAP—and who knows what
-						the future holds for more learning adventures! <br /> Thanks for visiting
-						my site! 😊
+						the future holds for more learning adventures! <br /> Thanks for
+						visiting my site! 😊
 					</p>
 					<div className="flex flex-row justify-start mt-8">
 						{TAB_DATA.map((tabItem) => (
